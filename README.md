@@ -12,13 +12,13 @@ Profissional de tecnologia, busco oportunidades em **Desenvolvimento**, **Suport
 ## 🚀 Tecnologias  
 
 **Desenvolvimento de Software**  
-Python, Java, C#/.NET, JavaScript, SQL  
+Python, Java, JavaScript, SQL  
 
 **Ambientes e Ferramentas**  
 Linux, Windows | Git, GitHub  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cs,dotnet,html,css,js,git,github,mysql,linux,windows,docker" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,mysql,linux,windows,docker" />
 </p>
 
 ---
