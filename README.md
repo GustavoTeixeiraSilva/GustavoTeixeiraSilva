@@ -29,7 +29,7 @@ Linux, Windows | Git, GitHub
   <a href="https://github.com/GustavoTeixeiraSilva">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/gustavoteiexeiratech">
+  <a href="https://www.linkedin.com/in/gustavoteixeiratech/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
