@@ -6,23 +6,20 @@
 
 ---
 
-## 🧠 Sobre mim  
+## 🚀  Sobre mim  
 
-💻 Desenvolvedor Full Stack apaixonado por tecnologia  
-🚀 Focado em criar aplicações modernas, eficientes e escaláveis  
-⚡ Experiência com desenvolvimento web e construção de sistemas  
-📈 Evolução constante através de projetos práticos  
+Desenvolvedor Full Stack apaixonado por tecnologia, criando soluções modernas e evoluindo constantemente
 
 ---
 
 ## ⚡ Tech Stack  
 
-### 💻 Linguagens 
+### 💻 Stack de Desenvolvimento
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,html,css,js" />
 </p>
 
-### 🛠️ Ferramentas & Tecnologias  
+### 🛠️ Stack & Ferramentas 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=spring,nodejs,react,mysql,git,docker,vscode" />
 </p>
