@@ -17,14 +17,14 @@
 
 ## ⚡ Tech Stack  
 
-### 💻 Linguagens  
+### 💻 Linguagens 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js" />
 </p>
 
 ### 🛠️ Ferramentas & Tecnologias  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,react,mysql,git,docker,vscode" />
 </p>
 
 ---
