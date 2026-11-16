@@ -35,8 +35,8 @@ Desenvolvedor Full Stack apaixonado por tecnologia, focado em construir soluçõ
 ## 📊 Estatísticas no GitHub
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GustavoTeixeiraSilva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF" alt="Estatísticas do GitHub" />
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GustavoTeixeiraSilva&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF" alt="Linguagens mais usadas" />
+  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=GustavoTeixeiraSilva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&v=1" alt="Estatísticas do GitHub" />
+  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GustavoTeixeiraSilva&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&v=1" alt="Linguagens mais usadas" />
 </p>
 
 ---
