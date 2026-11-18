@@ -4,13 +4,12 @@
 </div>
 
 <h3 align="center">
-  Estudante de Sistemas de Informação | Tecnologia da Informação
+  Full Stack Developer | Tecnologia da Informação
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Estudante+de+Sistemas+de+Informação;Desenvolvimento+de+Sistemas;Infraestrutura+e+Suporte+de+TI;Sempre+aprendendo+e+evoluindo" alt="Apresentação animada" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Estudante+de+Sistemas+de+Informacao;Desenvolvimento+de+Sistemas;Infraestrutura+e+Suporte+de+TI;Sempre+aprendendo+e+evoluindo&repeat=true" />
 </p>
-
 ---
 
 ## 👨‍💻 Sobre mim
