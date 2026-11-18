@@ -15,11 +15,11 @@
 
 ## 👨‍💻 Sobre mim
 
-Olá! Sou **Gustavo Henrique Teixeira da Silva**, estudante de sistemas de informação e profissional da área de Tecnologia da Informação.
+Olá! Sou **Gustavo Henrique Teixeira da Silva**, estudante de Sistemas de Informação e profissional da área de Tecnologia da Informação.
 
 Tenho interesse em desenvolvimento de software, infraestrutura, automação e soluções tecnológicas. Busco constantemente aprimorar meus conhecimentos por meio de estudos e projetos práticos.
 
-- 🎓 Estudante de Engenharia de Software.
+- 🎓 Estudante de Sistemas de Informação.
 - 💻 Atuação na área de Tecnologia da Informação.
 - 🚀 Desenvolvimento de aplicações e sistemas.
 - 🖥️ Experiência com suporte técnico e infraestrutura.
